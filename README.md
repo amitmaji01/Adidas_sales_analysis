@@ -55,7 +55,7 @@ The dataset contains sales transaction details, including:
 4. **Interact with Filters & Visualizations** for insights
 
 ## 🔗 Connect With Me
-I’m currently learning **Power BI and DAX** and implementing it through projects. Connect with me on **[LinkedIn](https://www.linkedin.com/in/amit-maji/)** for discussions and collaboration! 🚀
+I’m currently learning **Power BI and DAX** and implementing it through projects. Connect with me on **[LinkedIn](https://www.linkedin.com/in/amit-maji-a421671bb/)** for discussions and collaboration! 🚀
 
 💡 **Feedback & Suggestions are Welcome!**
 
